@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1622742737 source:c:\users\asus\desktop\cse360\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<stdint.h>
+	<time.h>
+	<sys/time.h>
+	<math.h>
+	<windows.h>
+	<x86intrin.h>
+
+1622742737 source:g:\all semester\semester 9 (spring 2021)\cse360 computer architecture\project\project\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<stdint.h>
+	<time.h>
+	<sys/time.h>
+	<math.h>
+	<windows.h>
+	<x86intrin.h>
+
